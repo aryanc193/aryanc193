@@ -6,7 +6,7 @@ Yo!
 </h1>  
 
 <div id="header" align="center">
-  <img src="https://pa1.narvii.com/5729/b235c4497b4b8e7d025f2af61dfb19ebc36c73b2_hq.gif" width="150"/>
+  <img src="https://media.tenor.com/HrdCsKACgUMAAAAC/luffy-one-piece.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -59,5 +59,6 @@ Yo!
 ---
 
 ### :crossed_swords: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanc193&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc193&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanc193&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
