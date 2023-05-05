@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/auZswdgkc8GSC8eVxQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/numberbarn-wink-pig-ears-auZswdgkc8GSC8eVxQ">via GIPHY</a></p>
+
 <!--
 **aryanc193/aryanc193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
