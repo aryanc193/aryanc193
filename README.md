@@ -1,7 +1,10 @@
-<h1 align = "center">
-Yo!
-  <div id = "yo" align = "center">
-    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106175772995100672/image_2023-05-11_163307959-removebg-preview.png" width="50"/>
+<h1 align = "left">
+  <div id = "yo" align = "left">
+    Yo!
+    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106192722701860924/peaceretro2.png" width="30"/>
+  </div>
+  <div id = "yo" align = "left">
+    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106187939022651502/retroarrow.png" width="500"/>
   </div>
 </h1>  
 
