@@ -7,7 +7,6 @@
     <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106187939022651502/retroarrow.png" width="500"/>
   </div>
 </h1>  
----
 <h4>
 <div align="center">
   <img src="https://i.pinimg.com/originals/b0/ae/c8/b0aec80310cceb44e136c9dc74e9e435.gif" width="400"/>
