@@ -1,11 +1,12 @@
 <h1 align = "center">
 Yo!
   <div id = "yo" align = "center">
+    <img src="https://media.giphy.com/media/66rL8PmB42HOn3tgZe/giphy.gif" width="50"/>
   </div>
 </h1>  
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/HrdCsKACgUMAAAAC/luffy-one-piece.gif" width="200"/>
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -22,7 +23,7 @@ Yo!
 ---
 <h4>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b0/ae/c8/b0aec80310cceb44e136c9dc74e9e435.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/b0/ae/c8/b0aec80310cceb44e136c9dc74e9e435.gif" width="300"/>
 </div>
 
 - 🔭 I’m a college student, studying computer science.
