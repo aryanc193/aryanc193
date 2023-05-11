@@ -1,7 +1,7 @@
 <h1 align = "center">
 Yo!
   <div id = "yo" align = "center">
-    <img src="https://media.giphy.com/media/66rL8PmB42HOn3tgZe/giphy.gif" width="50"/>
+    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106175772995100672/image_2023-05-11_163307959-removebg-preview.png" width="50"/>
   </div>
 </h1>  
 
