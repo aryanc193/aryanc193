@@ -7,26 +7,10 @@
     <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106187939022651502/retroarrow.png" width="500"/>
   </div>
 </h1>  
-
-<div id="header" align="center">
-  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
-  <a href = "https://www.linkedin.com/in/aryan-choudhary-a0b442203/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div id="badges2" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
-
-
 ---
 <h4>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b0/ae/c8/b0aec80310cceb44e136c9dc74e9e435.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/b0/ae/c8/b0aec80310cceb44e136c9dc74e9e435.gif" width="400"/>
 </div>
 
 - 🔭 I’m a college student, studying computer science.
@@ -45,8 +29,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Tg" width="30"/>
   </a>
 </div>
-
-- 😄 Pronouns: He/Him
+  
+<div id="badges" align="center">
+  <a href = "https://www.linkedin.com/in/aryan-choudhary-a0b442203/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="badges2" align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryanc193&style=flat-square&color=blue" alt=""/>
+</div>
 </h4>
 
 ---
