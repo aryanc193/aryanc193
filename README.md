@@ -1,10 +1,6 @@
-<h1 align = "left">
-  <div id = "yo" align = "left">
-    Yo!
-    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106192722701860924/peaceretro2.png" width="30"/>
-  </div>
-  <div id = "yo" align = "left">
-    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106187939022651502/retroarrow.png" width="500"/>
+<h1>
+  <div id = "yo" align = "centre">
+    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106236729444282470/retroarrow3.png" width="700"/>
   </div>
 </h1>  
 <h4>
