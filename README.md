@@ -1,6 +1,6 @@
 <h1>
   <div id = "yo" align = "centre">
-    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106236729444282470/retroarrow3.png" width="550"/>
+    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106248459180310648/ezgif.com-gif-to-mp4.gif" width="550"/>
   </div>
 </h1>  
 <h4>
