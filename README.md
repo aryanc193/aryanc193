@@ -1,16 +1,13 @@
 <h1>
   <div id = "yo" align = "centre">
-    <img src="https://cdn.discordapp.com/attachments/1101944447740162058/1106248459180310648/ezgif.com-gif-to-mp4.gif" width="550"/>
+    <img src="https://media.tenor.com/ONb9qleJvVkAAAAC/zoro-sleep.gif" width="550"/>
   </div>
 </h1>  
 <h4>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b0/ae/c8/b0aec80310cceb44e136c9dc74e9e435.gif" width="400"/>
-</div>
 
-- 🔭 I’m a college student, studying computer science.
-- 🔨 I'm currently working on Traffic Sign Recognition System as a project.
-- 🌱 I’m currently learning Data Structures and Object Oriented Programming.
+- 🔭 I’m a Third Year college student, in the computer science branch
+- 🔨 I'm currently learning WEBDEV, backend stuff
+- 🌱 I’m looking for oppurtunities to grow in WEBDEV as a frontend developer for now.
 - 📫 How to reach me: 
 <div id="badges3">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,10 +15,16 @@
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <img src="http://www.clipartbest.com/cliparts/9cp/LXG/9cpLXGbgi.png" alt="Tg" width="30"/>
+  <p>||</p>
   &nbsp;&nbsp;
   <a href = "https://t.me/aryanc193">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Tg" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <p>||</p>
+  &nbsp;&nbsp;
+  <a href = "https://msng.link/o?aryan.c193=ig">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Ig" width="30"/>
   </a>
 </div>
   
@@ -39,6 +42,9 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" title="css" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
