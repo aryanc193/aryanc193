@@ -16,9 +16,6 @@
   </a>&nbsp;&nbsp;
   <a href = "https://t.me/aryanc193">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Tg" width="30"/>
-  </a>&nbsp;&nbsp;
-  <a href = "https://www.instagram.com/aryan.c193">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Ig" width="30"/>
   </a>
 </div>
   
