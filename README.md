@@ -13,7 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://discordapp.com/users/730667988969193513">
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="30"/>
-  </a>
+  </a><nobr>
   <p>||</p>
   <a href = "https://t.me/aryanc193">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Tg" width="30"/>
