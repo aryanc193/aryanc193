@@ -6,7 +6,7 @@
 <h4>
 
 - 🔭 I’m a Third Year college student, in the computer science branch
-- 🔨 I'm currently learning WEBDEV, backend stuff
+- 🔨 I'm currently learning WEBDEV, frontend stuff
 - 🌱 I’m looking for oppurtunities to grow in WEBDEV as a frontend developer for now.
 - 📫 How to reach me: 
 <div id="badges3">
