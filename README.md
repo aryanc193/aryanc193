@@ -1,12 +1,12 @@
 <h1>
   <div id = "yo" align = "centre">
-    <img src="https://media.tenor.com/ONb9qleJvVkAAAAC/zoro-sleep.gif" width="550"/>
+    <img src="https://y.yarn.co/319cdecb-ad89-4672-a567-30ac50e21674_text.gif" width="550"/>
   </div>
 </h1>  
 <h4>
 
 - 🔭 I’m a Third Year college student, in the computer science branch
-- 🔨 I'm currently learning WEBDEV, frontend stuff
+- 🔨 I'm currently learning WEBDEV
 - 🌱 I’m looking for oppurtunities to grow in WEBDEV as a frontend developer for now.
 - 📫 How to reach me: 
 <div id="badges3">
