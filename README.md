@@ -5,9 +5,9 @@
 </h1>  
 <h4>
 
-- 🔭 I’m a Third Year college student, in the computer science branch
-- 🔨 I'm currently learning WEBDEV
-- 🌱 I’m looking for oppurtunities to grow in WEBDEV as a frontend developer for now.
+- 🔭 I’m a Final Year college student, in the computer science
+- 🔨 I'm currently learning WEBDEV and APP DEV
+- 🌱 I’m looking for oppurtunities to grow in WEBDEV & APP DEV as a full-stack developer.
 - 📫 How to reach me: 
 <div id="badges3">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,3 +48,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc193&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanc193&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<a href=#><img src="contributions.svg"></a>
