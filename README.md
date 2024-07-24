@@ -31,15 +31,7 @@
 
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="html" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,git,github,vscode,c,cpp,python&perline=13)](#)
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original-wordmark.svg" title="gimp" alt="gimp" width="40" height="40"/>&nbsp;
 </div>
 
