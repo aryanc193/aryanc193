@@ -12,10 +12,10 @@
 <div id="badges3">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://discordapp.com/users/730667988969193513">
-  <img src="https://" alt="Discord" width="30"/>
+  <img src="/logos/discord-badge.png" alt="Discord" width="30"/>
   </a>&nbsp;&nbsp;
   <a href = "https://t.me/aryanc193">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Tg" width="30"/>
+  <img src="/logos/telegram-badge.png" alt="Tg" width="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://aryanc193.github.io" title="Portfolio">
     <img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
