@@ -27,15 +27,6 @@
     <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" />
   </a>
 </div>
-  
-<div id="badges" align="center">
-  <a href = "https://www.linkedin.com/in/aryan-choudhary-a0b442203/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="badges2" align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanc193&style=flat-square&color=blue" alt=""/>
-</div>
 </h4>
 
 ---
@@ -59,3 +50,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanc193&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
