@@ -12,7 +12,7 @@
 <div id="badges3">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://discordapp.com/users/730667988969193513">
-  <img src="/logos/discord-badge.png" alt="Discord" height="30"/>
+  <img src="/logos/discord-badge.png" alt="Discord" height="30" style="margin-top: '5px'"/>
   </a>&nbsp;&nbsp;
   <a href = "https://t.me/aryanc193">
   <img src="/logos/telegram-badge.png" alt="Tg" height="30"/>
