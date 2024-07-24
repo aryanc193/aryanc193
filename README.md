@@ -12,7 +12,7 @@
 <div id="badges3">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://discordapp.com/users/730667988969193513">
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="30"/>
+  <img src="https://" alt="Discord" width="30"/>
   </a>&nbsp;&nbsp;
   <a href = "https://t.me/aryanc193">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Tg" width="30"/>
@@ -39,7 +39,7 @@
 
 ### :crossed_swords: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc193&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<nobr/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanc193&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href=#><img src="contributions.svg"></a>
