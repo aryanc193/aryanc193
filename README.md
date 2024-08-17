@@ -5,7 +5,7 @@
 </h1>  
 <h4>
 
-- I’m a Final Year college student, in the computer science
+- I’m a Final Year college student (computer science)
 - I'm currently learning WEBDEV and APP DEV
 - I’m looking for oppurtunities to grow in WEBDEV & APP DEV as a full-stack developer.
 - How to reach me: 
