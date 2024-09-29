@@ -7,7 +7,7 @@
 
 - Projects currently working on:<br>
         - [ARia: Enhancing education experiences with Augmented Reality](https://github.com/Pheonix747hs/ARia/tree/main)
-- I’m a Final Year college student (computer science)
+- I’m a Final Year Computer science major
 - I'm currently learning WEBDEV and APP DEV
 - I’m looking for oppurtunities to grow in WEBDEV & APP DEV as a full-stack developer.
 - How to reach me: 
