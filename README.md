@@ -5,10 +5,9 @@
 </h1>  
 <h4>
 
-- Projects currently working on:<br>
-        - [ARia: Enhancing education experiences with Augmented Reality](https://github.com/Pheonix747hs/ARia/tree/main)
-- I’m a Final Year Computer science major
-- I'm currently learning WEBDEV and APP DEV
+- I’m a Computer Science Graduate
+- Also learning Japanese (pursuing JLPT N3)
+- I'm currently learning WEBDEV and APP DEV (with React.js and React Native)
 - I’m looking for oppurtunities to grow in WEBDEV & APP DEV as a full-stack developer.
 - How to reach me: 
 <div id="badges3">
