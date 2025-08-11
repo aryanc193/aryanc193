@@ -40,12 +40,4 @@
 
 ### :crossed_swords: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc193&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<nobr/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryanc193&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aryanc193/count.svg" />
-</p>
