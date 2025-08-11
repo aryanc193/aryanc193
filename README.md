@@ -15,9 +15,6 @@
   <a href = "https://discordapp.com/users/730667988969193513">
   <img src="/logos/discord-badge.png" alt="Discord" height="30" style="margin-top: '30px'"/>
   </a>&nbsp;&nbsp;
-  <a href = "https://t.me/aryanc193">
-  <img src="/logos/telegram-badge.png" alt="Tg" height="30"/>
-  </a>&nbsp;&nbsp;
   <a href="https://aryanc193.github.io" title="Portfolio">
     <img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
   </a> &nbsp;&nbsp;
