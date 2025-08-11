@@ -1,6 +1,6 @@
 <h1>
   <div id = "yo" align = "centre">
-    <img src="https://y.yarn.co/319cdecb-ad89-4672-a567-30ac50e21674_text.gif" width="550"/>
+    <img src="[https://y.yarn.co/319cdecb-ad89-4672-a567-30ac50e21674_text.gif](https://static.wikia.nocookie.net/gintama/images/2/2d/Namecard.png/revision/latest?cb=20090626130729)" width="550"/>
   </div>
 </h1>  
 <h4>
