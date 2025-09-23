@@ -5,6 +5,9 @@
 </h1>  
 <h4>
 
+- Latest projects:
+- [Aether Notes](https://github.com/6DaddyCoders9/aether-notes)
+- [Book Notes Fullstack Capstone](https://github.com/aryanc193/Book-Notes-Project)
 - I’m a Computer Science Graduate
 - Also learning Japanese (pursuing JLPT N3)
 - I'm currently learning WEBDEV and APP DEV (with React.js and React Native)
