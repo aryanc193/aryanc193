@@ -4,7 +4,6 @@
   </div>
 </h1>  
 <h4>
-
 - Latest projects:
     - [Aether Notes](https://github.com/6DaddyCoders9/aether-notes)
     - [Book Notes Fullstack Capstone](https://github.com/aryanc193/Book-Notes-Project)
@@ -13,21 +12,6 @@
 - I'm currently learning WEBDEV and APP DEV (with React.js and React Native)
 - I’m looking for oppurtunities to grow in WEBDEV & APP DEV as a full-stack developer.
 - How to reach me: 
-<div id="badges3">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://discordapp.com/users/730667988969193513">
-  <img src="/logos/discord-badge.png" alt="Discord" height="30" style="margin-top: '30px'"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://aryanc193.github.io" title="Portfolio">
-    <img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/>
-  </a> &nbsp;&nbsp;
-  <a href="mailto:aryanc193@gmail.com" title="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aryan-choudhary-arry193/">
-    <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" />
-  </a>
-</div>
 </h4>
 
 ---
