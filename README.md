@@ -4,6 +4,7 @@
   </div>
 </h1>  
 <h4>
+
 - Latest projects:
     - [Aether Notes](https://github.com/6DaddyCoders9/aether-notes)
     - [Book Notes Fullstack Capstone](https://github.com/aryanc193/Book-Notes-Project)
@@ -11,7 +12,7 @@
 - Also learning Japanese (pursuing JLPT N3)
 - I'm currently learning WEBDEV and APP DEV (with React.js and React Native)
 - I’m looking for oppurtunities to grow in WEBDEV & APP DEV as a full-stack developer.
-- How to reach me: 
+
 </h4>
 
 ---
@@ -21,7 +22,3 @@
 </div>
 
 ---
-
-### :crossed_swords: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc193&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
