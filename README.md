@@ -7,7 +7,6 @@
 
 - Latest projects:
     - [Commentto](https://github.com/aryanc193/commentto)
-    - [Aether Notes](https://github.com/6DaddyCoders9/aether-notes)
 - I’m a Computer Science Graduate
 - Also learning Japanese (pursuing JLPT N3)
 - I'm currently learning WEBDEV and APP DEV (with React.js and React Native)
