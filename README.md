@@ -5,12 +5,10 @@
 </h1>  
 <h4>
 
-- Latest projects:
-    - [Commentto](https://github.com/aryanc193/commentto)
-- I’m a Computer Science Graduate
-- Also learning Japanese (pursuing JLPT N3)
-- I'm currently learning WEBDEV and APP DEV (with React.js and React Native)
-- I’m looking for oppurtunities to grow in WEBDEV & APP DEV as a full-stack developer.
+- Currently working as a bilingual engineer at Accenture.
+- Currently JLPT N3, pursuing N2
+- I'm currently working on Mainframes, while also learning marketing + tech skills.
+- Open to opportunities and discussions.
 
 </h4>
 
