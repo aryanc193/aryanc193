@@ -5,10 +5,10 @@
 </h1>  
 <h4>
 
-- Currently working as a bilingual engineer at Accenture.
+- Working as a bilingual engineer at Accenture.
 - Currently JLPT N3, pursuing N2
-- I'm currently working on Mainframes, while also learning marketing + tech skills.
-- Open to opportunities and discussions.
+- I'm working on Mainframes for now, while also learning marketing + tech skills for my future projects.
+- Open to opportunities, discussions and collaborations.
 
 </h4>
 
